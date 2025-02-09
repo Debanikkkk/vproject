@@ -20,7 +20,10 @@
 }
 
 .App-header {
-  background-color: #e867ff;
+  /* background-color: #e867ff; */
+  background-image: url('media/pinkbg.gif');
+  /* background-repeat: none; */
+  background-size: contain;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
